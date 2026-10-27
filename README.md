@@ -1,11 +1,4 @@
-This project has been created as part of the 42 curriculum by <obohbot>.
-<p align="center">
-  <img src="https://img.shields.io/badge/42-Lausanne-black?style=for-the-badge&logo=42&logoColor=white" alt="42 Lausanne"/>
-  <img src="https://img.shields.io/badge/langage-C-blue?style=for-the-badge&logo=c" alt="C"/>
-  <img src="https://img.shields.io/badge/norminette-OK-success?style=for-the-badge" alt="Norminette"/>
-</p>
-
-*Ce projet a été créé dans le cadre du cursus de l'école 42 Lausanne par <votre_login>.*
+*This project has been created as part of the 42 curriculum by <obohbot>.*
 
 # ft_printf
 
