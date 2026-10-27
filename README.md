@@ -1,4 +1,10 @@
-*This project has been created as part of the 42 curriculum by <obohbot>.*
+<p align="center">
+  <img src="https://img.shields.io/badge/42-Lausanne-black?style=for-the-badge&logo=42&logoColor=white" alt="42 Lausanne"/>
+  <img src="https://img.shields.io/badge/langage-C-blue?style=for-the-badge&logo=c" alt="C"/>
+  <img src="https://img.shields.io/badge/norminette-OK-success?style=for-the-badge" alt="Norminette"/>
+</p>
+
+*Ce projet a été créé dans le cadre du cursus de l'école 42 Lausanne par <obohbot>.*
 
 # ft_printf
 
@@ -149,3 +155,7 @@ Testeurs communautaires utiles : [Tripouille/printfTester](https://github.com/Tr
 ### Utilisation de l'IA
 
 L'IA a été utilisée comme aide à la rédaction de ce README (structure et mise en forme). Le code, la conception et la logique du projet ont été réalisés et compris par l'auteur, conformément aux règles de l'école.
+
+## Auteur
+
+- **<votre_login>** — 42 Lausanne
